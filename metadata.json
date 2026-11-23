@@ -1,5 +1,5 @@
 {
-  "name": "Sentinel VPS",
+  "name": "Sentinel Ssh",
   "description": "Dark-first SSH VPS monitor and management NOC dashboard with live metrics, systemd controls, log tailing, and interactive terminal.",
   "requestFramePermissions": [],
   "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]

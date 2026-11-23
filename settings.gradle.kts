@@ -22,6 +22,6 @@ dependencyResolutionManagement {
   }
 }
 
-rootProject.name = "SentinelVPS"
+rootProject.name = "SentinelSsh"
 
 include(":app")

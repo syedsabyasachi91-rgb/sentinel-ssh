@@ -249,7 +249,7 @@ private fun FleetHeader(nodeCount: Int) {
             ) {
                 Icon(
                     imageVector = Icons.Default.Terminal,
-                    contentDescription = "Sentinel VPS logo",
+                    contentDescription = "Sentinel Ssh logo",
                     tint = noc.healthy,
                     modifier = Modifier.size(24.dp)
                 )

@@ -3,6 +3,6 @@
     <item
         android:width="66dp"
         android:height="66dp"
-        android:drawable="@drawable/sentinel_vps_icon_1795362626230"
+        android:drawable="@drawable/sentinel_ssh_icon_fg"
         android:gravity="center" />
 </layer-list>
