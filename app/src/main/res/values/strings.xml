@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Sentinel VPS</string>
+    <string name="fleet_title">Sentinel VPS</string>
+    <string name="fleet_subtitle">Encrypted SSH Fleet</string>
+    <string name="add_server">Add Server</string>
+    <string name="edit_server">Edit Server</string>
+    <string name="delete_server">Delete Server</string>
+    <string name="connect">Connect</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="reconnect">Reconnect</string>
+    <string name="nav_monitor">Monitor</string>
+    <string name="nav_services">Services</string>
+    <string name="nav_logs">Logs</string>
+    <string name="nav_terminal">Terminal</string>
+    <string name="empty_fleet_title">No VPS Nodes Saved</string>
+    <string name="empty_fleet_desc">Add a Linux VPS via SSH password or private key to stream live metrics, control systemd units, tail logs, and open an interactive shell.</string>
+    <string name="verify_host_key_title">Verify SSH Host Key</string>
+    <string name="host_key_changed_warning">WARNING: The remote host key fingerprint has changed since your last connection. Verify with your provider before continuing.</string>
+    <string name="trust_and_connect">Trust &amp; Connect</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save Node</string>
+    <string name="import_key_file">Import Key File</string>
+    <string name="snippets">Snippets</string>
+    <string name="run_snippet">Run</string>
+    <string name="insert_snippet">Insert</string>
+</resources>
